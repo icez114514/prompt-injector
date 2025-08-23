@@ -18,6 +18,10 @@
 
 ## 安裝（手動）
 
+方法1：Install from URL https://github.com/icez114514/prompt-injector.git
+
+方法2：
+
 1. 進入你的 Stable Diffusion WebUI 的 `extensions` 或 `scripts` 目錄。
 2. 把 `prompt_injector.py` 放到 `scripts/` 資料夾內（或放入你的 plugin repository），例如：
 
