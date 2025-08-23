@@ -4,6 +4,8 @@
 
 `prompt_injector.py` 是一個針對 Stable Diffusion WebUI 的插件（scripts 格式），可以從上傳的 PNG 圖片檔案中擷取 `parameters` / `Prompt` 等 metadata，並在生成時自動將該圖片內的正向與負向提示詞注入到輸入參數中，方便你重現或混合其他作品的提示詞。
 
+<img width="768" height="1186" alt="image" src="https://github.com/user-attachments/assets/42ac26ac-015f-4c29-b911-5ffa581e75fb" />
+
 ---
 
 ## 主要功能
