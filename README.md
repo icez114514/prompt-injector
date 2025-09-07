@@ -67,10 +67,3 @@ Steps: 28, Sampler: DPM++ 2M Karras, CFG scale: 7.0
 插件會擷取正向 `A beautiful magical forest, sunlight beams, high detail`，負向 `lowres, bad anatomy, watermark`，並分別注入到生成參數中（依你在該 Tab 的勾選設定和附加位置）。
 
 ---
-
-## 作者資訊
-
-https://bio.link/icez
-
-若有幫助的話可以幫我在X上點個讚 謝謝
----
